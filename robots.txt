@@ -1,4 +1,3 @@
 User-agent: *
-Allow: /
 
-Sitemap: https://simple-server.adisuciptoku.repl.co/sitemap.xml
+Sitemap: https://watcher.pages.dev/map.xml
